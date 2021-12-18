@@ -1,7 +1,5 @@
 hi
-i make things i guess?
-
-i learn things
+i make and do things i guess
 
 
-school bad
+how do i type words??
