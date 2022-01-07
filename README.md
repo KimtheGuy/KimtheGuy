@@ -5,4 +5,5 @@ i make and do things i guess
 how do i type words??
 
 
-so. i am a bad coder, obviously. i am legit in like- seventh grade
+so. i am a bad coder, obviously.
+[![trophy](https://github-profile-trophy.vercel.app/?KimtheGuy=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
