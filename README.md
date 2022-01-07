@@ -6,4 +6,4 @@ how do i type words??
 
 
 so. i am a bad coder, obviously.
-[![trophy](https://github-profile-trophy.vercel.app/?KimtheGuy=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?KimtheGuy)](https://github.com/ryo-ma/github-profile-trophy)
